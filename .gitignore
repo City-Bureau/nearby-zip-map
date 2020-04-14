@@ -1,0 +1,7 @@
+.DS_Store
+.vscode
+.venv
+input/*
+!input/.keep
+output/*
+!output/.keep
